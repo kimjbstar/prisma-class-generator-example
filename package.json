@@ -1,0 +1,13 @@
+{
+  "name": "prisma-class-generator-example",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "devDependencies": {
+    "prisma": "^3.5.0",
+    "prisma-class-generator": "^0.1.10"
+  },
+  "dependencies": {
+    "@prisma/client": "^3.5.0"
+  }
+}
